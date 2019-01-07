@@ -1,0 +1,2 @@
+# tiket
+tentang pembelian tiket
